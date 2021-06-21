@@ -83,12 +83,12 @@ Before refractoring the code, I needed to downloaded and installed VBA_Challenge
 ### Pros
 
 Refractoring your code makes it more clean and organized for 
-Another engineer to be able to quickly review and easily understand your work, therefore making it less complicated to design, debug, and more simple to add new improvements
-Refractoring your code can also reduce run times
+Another engineer to be able to quickly review and easily understand your work, therefore making it less complicated to design, debug, and more simple to add new improvements. 
+Refractoring your code also reduce run times
 
 ### Cons
 
-We cannot refractor the code due to the size of the file. Too Large, Excel has a limit of rows
+We cannot refractor the code due to the size of the file. Too Large, Excel has a limit of rows. Another Con maybe that 
 No proper test case exist
 
 ### Advantage of Refractoring Code
