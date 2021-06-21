@@ -18,7 +18,9 @@ To run the Marco to compare a stock performance of 2017 vs 2018. As well as shar
 
 Before refractoring the code, I needed to downloaded and installed VBA_Challenge.vbs, I renamed my greenstocks.xlms to VBA_Challenge.xmls and uploaded the VBA_Challenge.vbs into the macro. This gave me a initial template to follow along the challenge. Here is a copy and paste from VBS
 
-'1a) Create a ticker Index
+
+Taken Directly from Module 3
+    '1a) Create a ticker Index
     tickerIndex = 0
 
     '1b) Create three output arrays
