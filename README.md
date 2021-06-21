@@ -20,6 +20,8 @@ Before refractoring the code, I needed to downloaded and installed VBA_Challenge
 
 
 Taken Directly from Module 3
+
+
     '1a) Create a ticker Index
     tickerIndex = 0
 
