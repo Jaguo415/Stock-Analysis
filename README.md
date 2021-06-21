@@ -1,7 +1,7 @@
 # Stock-Analysis
 ## Overview of Project
 
-The Purpose of this project was to refactor VBA Code to sort by a group of stock tickers and pull their yearly results for 2017 and 2018. We are trying to determine if these stocks are worth investing in. We have done this for module 2, but this challenge is specifically going to increase the efficency of the original code. 
+The Purpose of this project was to refactor VBA Code to sort by a group of stock tickers and pull their yearly results for 2017 and 2018. We are trying to determine if these stocks are worth investing in by understanding their Year over Year . We have done this for module 2, but this challenge is specifically going to increase the efficency of the original code. 
 
 ## Details
 ### Data
@@ -82,14 +82,14 @@ Before refractoring the code, I needed to downloaded and installed VBA_Challenge
 ## Summary
 ### Pros
 
-Refractoring your code makes it more clean and organized
-Another engineer can easily understand, therefore easier to design, debug, and simple to add improvements
-Refractoring your code can reduce run times
+Refractoring your code makes it more clean and organized for 
+Another engineer to be able to quickly review and easily understand your work, therefore making it less complicated to design, debug, and more simple to add new improvements
+Refractoring your code can also reduce run times
 
 ### Cons
 
-We cannot refractor the code due to the size of the file. too Large
-No proper test case
+We cannot refractor the code due to the size of the file. Too Large, Excel has a limit of rows
+No proper test case exist
 
 ### Advantage of Refractoring Code
 
