@@ -95,7 +95,7 @@ No proper test case
 
 The biggest advantage was the decrease macro run time. Originally the analysis in Greenstocks.xlms took 1 second to run. However in the screenshots below, by refractoring our code. we reduced runtimes to less than 20% of a second. Refractoring our code was really beneficial because in the real world, these run times can be hours. Imagine taking 80% off a hour wait. Thats useful. 
 
-### 2018 vs 2017 Screenshots
+### 2018 vs 2017 Run time Screenshots
 https://github.com/Jaguo415/Stock-Analysis/blob/main/Screen%20Shot%202021-06-20%20at%2012.08.10%20PM.png
 https://github.com/Jaguo415/Stock-Analysis/blob/main/Screen%20Shot%202021-06-20%20at%2012.15.33%20PM.png
 
